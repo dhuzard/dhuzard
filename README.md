@@ -2,7 +2,7 @@
 **Founder @ [NeuroNautix](https://www.neuronautix.com) & [Metadatapp](https://www.metadatapp.net) | Scientist | FAIR (meta)data | Open Science Advocate**
 
 I am a Neuro-physio-behaviorist dedicated to bridging the gap between preclinical research and digital interoperability. In 2025, I founded **NeuroNautix** and **MAPP** to revolutionize how we manage metadata and improve the ethical standards of animal research.
-
+here is my [personnal website and blog](dhuzard.github.io)
 ---
 
 ### 🛡️ The FAIRRR Framework
@@ -12,8 +12,8 @@ I pioneered the **FAIRRR** framework—integrating **FAIR** data principles with
 
 ### 🛠️ Current Ventures & Projects
 
-* **[MAPP (MetaDatApp)](https://github.com/dhuzard/MAPP-Schema):** An API-first platform for structured preclinical metadata management.
-* **[NeuroNautix](https://dhuzard.github.io):** Specialized consultancy in behavioral experiments, home-cage monitoring, and FAIR metadata.
+* **[Metadatapp)]([https://github.com/dhuzard/MAPP-Schema](https://www.metadatapp.net)):** An API-first platform for structured preclinical metadata management.
+* **[NeuroNautix]([https://dhuzard.github.io](https://www.neuronautix.com)):** Specialized consultancy in behavioral experiments, home-cage monitoring, and FAIR metadata.
 * **Ontology Engineering:** Lead on **HCMO** (Home Cage Monitoring Ontology) and **MBO** (Mouse Behavior Ontology).
 * **[The Behaviour Forum](https://thebehaviourforum.org):** Administrator and moderator for a global community of behavioral scientists.
 
