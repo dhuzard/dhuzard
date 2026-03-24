@@ -1,6 +1,7 @@
 # Damien Huzard, PhD 👋 
 **Founder @ [NeuroNautix](https://www.neuronautix.com) & [Metadatapp](https://www.metadatapp.net) | Scientist | FAIR (meta)data | Open Science Advocate**
-I am a Neuro-physio-behaviorist dedicated to bridging the gap between preclinical research and digital interoperability. In 2025, I founded **NeuroNautix** and **MAPP** to revolutionize how we manage metadata and improve the ethical standards of animal research.
+
+I am a (neuro)Scientist dedicated to bridging the gap between preclinical research and digital interoperability. In 2025, I founded **NeuroNautix** and **Metadatapp** in 2026, to improve how we manage metadata and acelerate ethical standards of animal research.
 here is my [personnal website and blog](dhuzard.github.io)
 ---
 
