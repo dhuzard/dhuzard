@@ -1,0 +1,35 @@
+- domain: Bio-Behavioral Science
+  icon: "🧬"
+  skills:
+    - Home Cage Monitoring (HCM)
+    - ECG / HRV Analysis
+    - Skin-Nerve Recordings
+    - Social Fear Conditioning
+    - Behavioral Phenotyping
+
+- domain: Data Science
+  icon: "📊"
+  skills:
+    - Python (Pandas, Scipy, Seaborn)
+    - Statsmodel & Dabest
+    - Jupyter Notebooks
+    - Geospatial (Folium)
+    - Statistical Modeling
+
+- domain: Semantic Web
+  icon: "🕸️"
+  skills:
+    - RDF & OWL
+    - Schema.org
+    - Ontology Engineering
+    - Ontology Mapping
+    - FAIR Principles
+
+- domain: Software Development
+  icon: "💻"
+  skills:
+    - TypeScript / JavaScript
+    - API Design (REST)
+    - Next.js / React
+    - HTML & CSS
+    - Git & Open Source

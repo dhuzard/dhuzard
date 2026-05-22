@@ -1,0 +1,5 @@
+# This file is managed by scripts/sync-orcid.ts
+# Run: npm run sync:orcid to update
+orcid: "0000-0003-4820-7951"
+last_synced: ""
+works: []

@@ -1,0 +1,38 @@
+- id: metadatapp
+  role: Founder & CEO
+  company: Metadatapp
+  url: https://www.metadatapp.net
+  period: "2026 – Present"
+  description: >
+    API-first platform for structured preclinical metadata management.
+    Building tools to accelerate FAIR data adoption across the life sciences.
+  tags: [API, Metadata, FAIR, TypeScript]
+
+- id: neuronautix
+  role: Founder & Principal Scientist
+  company: NeuroNautix
+  url: https://www.neuronautix.com
+  period: "2025 – Present"
+  description: >
+    Specialized consultancy in behavioral experiments, home-cage monitoring (HCM),
+    and FAIR metadata. Supporting labs in designing reproducible, ethical research pipelines.
+  tags: [Neuroscience, HCM, Consulting, FAIR]
+
+- id: hcmo
+  role: Lead Ontologist
+  company: HCMO & MBO Projects
+  period: "2024 – Present"
+  description: >
+    Lead on the Home Cage Monitoring Ontology (HCMO) and Mouse Behavior Ontology (MBO).
+    Developing semantic standards for behavioral phenotyping data.
+  tags: [OWL, RDF, Ontology, Open Science]
+
+- id: behaviour-forum
+  role: Administrator & Moderator
+  company: The Behaviour Forum
+  url: https://thebehaviourforum.org
+  period: "2023 – Present"
+  description: >
+    Community administrator for a global network of behavioral scientists.
+    Organizing discussions, workshops, and collaborative initiatives.
+  tags: [Community, Science, Behavioral Research]

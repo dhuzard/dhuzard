@@ -1,0 +1,25 @@
+- id: talk-1
+  title: "FAIRRR: Integrating FAIR Data with the 3Rs in Preclinical Research"
+  event: Open Science Conference 2025
+  date: "2025-09-15"
+  location: Amsterdam, Netherlands
+  type: keynote
+  abstract: >
+    Introducing the FAIRRR framework and its implications for ethical,
+    reproducible preclinical research.
+  slides_url: ""
+  recording_url: ""
+  tags: [FAIR, 3Rs, Open Science]
+
+- id: talk-2
+  title: "Home Cage Monitoring Ontology: Standardizing Behavioral Data"
+  event: Society for Neuroscience 2024
+  date: "2024-11-12"
+  location: Chicago, USA
+  type: talk
+  abstract: >
+    Presenting the HCMO ontology structure, its coverage of HCM parameters,
+    and integration pathways with existing neuroscience ontologies.
+  slides_url: ""
+  recording_url: ""
+  tags: [Ontology, HCM, Neuroscience]
