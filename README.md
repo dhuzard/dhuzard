@@ -4,9 +4,14 @@
 I am a (neuro)Scientist dedicated to bridging the gap between preclinical research and digital interoperability. In 2025, I founded **NeuroNautix** and **Metadatapp** in 2026, to improve how we manage metadata and acelerate ethical standards of animal research.
 here is my [personnal website and blog](dhuzard.github.io)
 
+### 🛡️ Ethical Debt of Preclinical Research
 
-### 🛡️ The FAIRRR Framework
-I pioneered the **FAIRRR** framework—integrating **FAIR** data principles with the **3Rs** (Replace, Reduce, Refine). My goal is to ensure that preclinical research is as ethical as it is reproducible.
+I developed the Ethical Debt of Preclinical Research framework to describe the ethical consequences of preventable loss of animal-derived scientific evidence. It derives from the WellFAIR/data welfare concept co-developed with Benoit Petit-Demoulière.
+
+→ https://neuronautix.com/ethical-debt/
+
+Original article — 25 June 2026:
+https://www.linkedin.com/pulse/ethical-debt-preclinical-research-when-poor-data-wastes-damien-huzard-bmwae/
 
 ---
 
