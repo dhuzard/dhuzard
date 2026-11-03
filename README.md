@@ -1,26 +1,58 @@
-# Damien Huzard, PhD 👋 
+# Damien Huzard, PhD 👋
 **Founder @ [NeuroNautix](https://www.neuronautix.com) & [Metadatapp](https://www.metadatapp.net) | Scientist | FAIR (meta)data | Open Science Advocate**
+
 ---
-I am a (neuro)Scientist dedicated to bridging the gap between preclinical research and digital interoperability. In 2025, I founded **NeuroNautix** and **Metadatapp** in 2026, to improve how we manage metadata and acelerate ethical standards of animal research.
-here is my [personnal website and blog](dhuzard.github.io)
 
-### 🛡️ Ethical Debt of Preclinical Research
+I am a (neuro)scientist dedicated to bridging the gap between preclinical research and digital interoperability. I founded **NeuroNautix** in 2025 and **Metadatapp** in 2026 to improve how we manage metadata and to accelerate ethical standards in animal research.
+Here is my [personal website and blog](https://dhuzard.github.io).
 
-I developed the Ethical Debt of Preclinical Research framework to describe the ethical consequences of preventable loss of animal-derived scientific evidence. It derives from the WellFAIR/data welfare concept co-developed with Benoit Petit-Demoulière.
-
-→ https://neuronautix.com/ethical-debt/
-
-Original article — 25 June 2026:
-https://www.linkedin.com/pulse/ethical-debt-preclinical-research-when-poor-data-wastes-damien-huzard-bmwae/
+### 🛡️ The FAIRRR Framework
+I pioneered the **FAIRRR** framework — integrating **FAIR** data principles with the **3Rs** (Replace, Reduce, Refine). My goal is to ensure that preclinical research is as ethical as it is reproducible. Read the [five-part FAIRRR series](https://dhuzard.github.io/blog/2025-09-18-fairrr-ethics-of-metadata/) on my blog.
 
 ---
 
 ### 🛠️ Current Ventures & Projects
 
-* **[Metadatapp)]([https://github.com/dhuzard/MAPP-Schema](https://www.metadatapp.net)):** An API-first platform for structured preclinical metadata management.
-* **[NeuroNautix]([https://dhuzard.github.io](https://www.neuronautix.com)):** Specialized consultancy in behavioral experiments, home-cage monitoring, and FAIR metadata.
-* **Ontology Engineering:** Lead on **HCMO** (Home Cage Monitoring Ontology) and **MBO** (Mouse Behavior Ontology).
-* **[The Behaviour Forum](https://thebehaviourforum.org):** Administrator and moderator for a global community of behavioral scientists.
+* **[Metadatapp](https://www.metadatapp.net):** An API-first platform for structured preclinical metadata management — open-source core at [metadatapp-oss](https://github.com/Neuronautix/metadatapp-oss).
+* **[NeuroNautix](https://www.neuronautix.com):** Specialized consultancy in behavioral experiments, home-cage monitoring, and FAIR metadata ([GitHub](https://github.com/Neuronautix)).
+* **Ontology Engineering:** Lead on **[HCMO](https://github.com/dhuzard/HCMO)** (Home Cage Monitoring Ontology, v0.4.1 on [BioPortal](https://bioportal.bioontology.org/ontologies/HCMO)) and **[MBO](https://github.com/dhuzard/MBO)** (Mouse Behavior Ontology).
+* **[The Behaviour Forum](https://www.thebehaviourforum.org):** Administrator and moderator for a global community of behavioral scientists.
+
+---
+
+### 🔬 Selected Open Projects
+
+**Ontologies & semantic curation**
+| Project | What it does |
+| :--- | :--- |
+| [HCMO](https://github.com/dhuzard/HCMO) | Home-cage monitoring ontology built from the COST TEATIME HCM definition: modular Turtle sources, SHACL shapes, competency queries, versioned releases with Zenodo DOIs. |
+| [hcmo-kgqa-lab](https://github.com/Neuronautix/hcmo-kgqa-lab) | Knowledge-graph question answering over HCMO (term retrieval → SPARQL → grounded answers). |
+| [HCM Ontology Mapper](https://dhuzard.github.io/hcm-mapper-app/) | Web app mapping home-cage monitoring systems to HCMO terms, with JSON-LD/CSV export. |
+
+**Trustworthy AI for science**
+| Project | What it does |
+| :--- | :--- |
+| [The Ethical Debt](https://github.com/dhuzard/ethical-debt-AI-review) | AI-assisted computational review of 1,300+ sources on data welfare in preclinical research, with claim-level TRUST scores. |
+| [Open Review Atlas](https://github.com/dhuzard/oratlas) | Proof-of-concept archive of AI-generated reviews with claim-level trust assessments. |
+| [FAIR.md](https://github.com/Neuronautix/FAIR.md) · [TRUST.md](https://github.com/Neuronautix/TRUST.md) | Experimental machine- and human-readable conventions declaring a project's FAIRness and the evidence behind its claims. |
+| [Murmuration](https://github.com/Neuronautix/murmuration) | Supervised LangGraph multi-agent literature review with reviewer checkpoints and an audit trail. |
+| [Research-Deposition-MCP](https://github.com/dhuzard/Research-Deposition-MCP) | MCP server where agents prepare Zenodo deposits, executed only after signed human approval. |
+| [PICO](https://github.com/dhuzard/pico-orchestrator) | Pi Coding Orchestrator: deterministic Claude/Codex routing, provenance and isolated workers. |
+
+**FAIR research infrastructure**
+| Project | What it does |
+| :--- | :--- |
+| [OpenResearchWorkspace](https://github.com/dhuzard/OpenResearchWorkspace) | Portable RO-Crate research workspaces. |
+| [RELAY](https://github.com/Neuronautix/RELAY) | Experimental profile-driven exchange format and validator for lab-study metadata (ISA, PROV-O, RO-Crate). |
+| [Data2Agent](https://github.com/Neuronautix/Data2Agent) | Evidence-preserving access to scientific datasets through MCP, with FAIR assessment. |
+| [FAIR-VCG-mentor](https://github.com/Neuronautix/FAIR-VCG-mentor) | LLM-assisted tool for FAIR preclinical data and Virtual Control Groups (3Rs). |
+| [nam2evidence](https://github.com/Neuronautix/nam2evidence) | Proof-of-concept packaging of NAM-derived nonclinical data into reviewable evidence. |
+| [orcid-playground](https://github.com/dhuzard/orcid-playground) | Experimental open-source ORCID tools. |
+
+**Open hardware**
+| Project | What it does |
+| :--- | :--- |
+| [Open-BEATBox](https://github.com/Open-BeatBox) | Open behavioural apparatus: hardware (CAD, KiCad), Qt/MicroPython software and assembly documentation. |
 
 ---
 
@@ -29,8 +61,9 @@ https://www.linkedin.com/pulse/ethical-debt-preclinical-research-when-poor-data-
 | Domain | Specialization |
 | :--- | :--- |
 | **Bio-Behavioral** | Home Cage Monitoring (HCM), ECG/HRV analysis, Skin-Nerve recordings, Social Fear Conditioning |
-| **Data Science** | Python (Pandas, Scipy, Seaborn, Statsmodel, Dabest), Jupyter, Folium |
-| **Semantics** | RDF, OWL, Schema.io, Ontology Mapping |
+| **Data Science** | Python (Pandas, SciPy, Seaborn, statsmodels, DABEST), Jupyter, Folium |
+| **Semantics** | RDF, OWL, SHACL, SPARQL, JSON-LD, Schema.org, RO-Crate, Ontology Mapping |
+| **AI & Agents** | LLM-assisted curation, LangGraph, MCP servers, human-in-the-loop review |
 | **Development** | JavaScript/TypeScript, API Design, HTML/CSS |
 
 ---
@@ -42,14 +75,15 @@ https://www.linkedin.com/pulse/ethical-debt-preclinical-research-when-poor-data-
 ---
 
 ### ✍️ Latest from the Blog
-* *The Metadata Gap Is an Ethics Gap*
-* *Inside MAPP: API-First Metadata for Reproducible Research*
-* *FAIRRR: From Principles to Measurable Outcomes*
+* [*DataCare is Animal Welfare: why FAIR metadata is the next 3R infrastructure*](https://dhuzard.github.io/blog/2026-06-15-datacare-is-animal-welfare/)
+* [*FAIRRR 1/5 — The Metadata Gap Is an Ethics Gap*](https://dhuzard.github.io/blog/2025-09-18-fairrr-ethics-of-metadata/)
+* [*FAIRRR 3/5 — Inside MAPP: API-First Metadata for Reproducible Research*](https://dhuzard.github.io/blog/2025-09-20-mapp-api-first-fairrr/)
+* [*FAIRRR 4/5 — Case Study: Home Cage Monitoring with MAPP + Ontology Mapping*](https://dhuzard.github.io/blog/2025-09-21-case-study-hcm-mapp-ontology/)
 
 ---
 
 ### 📫 Connect With Me
-[![Website](https://img.shields.io/badge/Website-dhuzard.io-blue?style=for-the-badge&logo=jekyll)](https://dhuzard.github.io)
+[![Website](https://img.shields.io/badge/Website-dhuzard.github.io-blue?style=for-the-badge&logo=github)](https://dhuzard.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Damien_Huzard-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dhuzard)
 [![Twitter](https://img.shields.io/badge/Twitter-@DamienHuzard-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/dhuzard)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4820--7951-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-4820-7951)
